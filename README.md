@@ -30,5 +30,5 @@ A Tic Tac Toe Game With Numbers Version. Created using python and pygame libirar
 
 - The first person to complete a line that adds up to 15 is the winner.
 
-** The line can have both odd and even numbers.
+*The line can have both odd and even numbers.
 --------------------------------------------
